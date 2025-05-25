@@ -17,7 +17,7 @@ function About() {
         <span className='passion'>A final-year Computer Science student specializing in building web applications.        </span>
         <div>
           
-        <a href="https://drive.usercontent.google.com/u/0/uc?id=167J9xszpwLkWHqdkWCzxvfateKJ_bSMD&export=download" download>
+        <a href="https://drive.usercontent.google.com/u/0/uc?id=1J0QtGlCeDnYrkPZg_TmYN6IE-nWrlNEz&export=download" download>
           <div className="buttonBox" data-tooltip="Size: 157 KB">
             <div className="button-wrapper">
               <div className="text">Download CV</div>
